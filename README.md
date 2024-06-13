@@ -36,7 +36,7 @@ O projeto consiste nos seguintes componentes principais:
 
 
 ## Exemplo de Uso
-
+```
 MENU
 
 [c] Cadastrar usuário
@@ -85,7 +85,7 @@ MENU
 [x] Fechar
 
 => x
-
+```
 
 ## Requisitos
 
@@ -93,13 +93,13 @@ MENU
 
 ## Estrutura de Arquivos
 
-
+```
 sistema-de-cadastro-de-usuarios/
 │
 ├── sistema_de_cadastro.py
 ├── README.md
 └── .gitignore
-
+```
 
 ## Contribuição
 
